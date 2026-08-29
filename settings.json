@@ -4,7 +4,7 @@
   "server": {
     "ip": "veyronia-smp.aternos.me",
     "port": 34501,
-    "version": "1.20.1"
+    "version": "26.2"
   },
 
   "bots": [
